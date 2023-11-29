@@ -70,7 +70,7 @@ export map -projection plan -layout cleanPlan -o "output/Contra Canyon - Novembe
 
 # SVG Exports #
 
-export map -projection plan -layout workingPlan -o "output/Contra Canyon - November 25, 2023 Plan Working.svg"
+export map -projection plan -layout workingPlan -o "output/Contra Canyon - November 25, 2023 Working Plan.svg"
 export map -projection plan -layout cleanPlan -o "output/Contra Canyon - November 25, 2023 Plan.svg"
 
 
