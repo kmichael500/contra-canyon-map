@@ -3,26 +3,14 @@
 survey survey_1 -title "Contra Canyon"
 	
 	input "scrap_1.th2"
-	# input "scrap_2.th2"
-	# input "scrap_profile.th2"
 	map map_1
-		# high [-15 0 m] above
-		# break
 		low
 	endmap
 	
-	# map high
-	# 	scrap_2
-	# endmap
 	
 	map low
 		scrap_1
-		# Cedar_Pit-1p2
-		# Cedar_Pit-1p1
 	endmap
-	# map map_profile
-	# 	scrap_profile
-	# endmap
 	centerline
 		date 2023.11.25
 		team "Justin Huffman"
