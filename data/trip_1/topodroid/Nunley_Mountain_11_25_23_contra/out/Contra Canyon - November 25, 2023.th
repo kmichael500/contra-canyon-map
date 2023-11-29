@@ -1,10 +1,10 @@
-# 2023.11.26 created by TopoDroid v 6.1.43
+# 2023.11.28 created by TopoDroid v 6.1.43
 
 survey Nunley_Mountain_11_25_23_contra -title "Nunley Mountain 11 25 23 contra"
 
   centerline
     date 2023.11.25 
-    # team Alea, Juatin, Rachel 
+    # team Alea Moore, Justin Huffman, Rachel Saker, Michael Ketzner 
     units length feet
     units compass clino degrees
     data normal from to length compass clino
@@ -452,9 +452,9 @@ survey Nunley_Mountain_11_25_23_contra -title "Nunley Mountain 11 25 23 contra"
     # extend auto
     CCC14.9 . 9.73 1.1 -35.4
     extend right
-    CCC14.9 CCC14.10 16.85 72.0 1.6
+    CCC14.9 CCC16 16.85 72.0 1.6
     # extend auto
-    CCC14.10 . 16.90 253.9 -2.5
+    CCC16 . 16.90 253.9 -2.5
     extend vertical
     CCC12 CCC12.1 59.19 273.4 31.7
     # extend auto
