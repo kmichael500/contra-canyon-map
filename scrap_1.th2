@@ -1,5 +1,5 @@
 encoding  utf-8
-##XTHERION## xth_me_area_adjust -5385.0 -7139.0 775.0 702.0
+##XTHERION## xth_me_area_adjust -5385.0 -7089.0 775.0 702.0
 ##XTHERION## xth_me_area_zoom_to 100
 
 # 2023.11.26 created by TopoDroid v. 6.1.43
@@ -225,7 +225,9 @@ line border -id l12--144--244 -subtype invisible
   -3433.0 -3352.0
 endline
 
-point -2400.0 -3224.0 label -text "Contra Canyon" -scale xl
+point -3784.0 -3467.0 label -text "Contra Canyon" -scale xl
+
+point -2561.0 -3309.0 label -text "Contra Canyon" -scale xl
 
 line border -id l13-256--31 -subtype invisible
   293.0 4.0
@@ -729,6 +731,7 @@ line low-ceiling -clip off
   -395.0 -695.0 -269.0 -696.0 -247.0 -696.0
   -225.0 -696.0 -142.0 -675.0 -127.0 -672.0
   -112.0 -669.0 -35.0 -657.0 -30.0 -650.0
+  smooth off
 endline
 
 point -804.75 -730.05 label -text "low air space "
@@ -783,6 +786,7 @@ line wall
   -3990.11 -3497.83 -3992.87 -3498.55 -3995.62 -3499.22
   -4028.48 -3507.22 -4062.37 -3516.04 -4095.94 -3520.59
   -4098.79 -3520.97 -4101.69 -3520.81 -4104.55 -3520.59
+  smooth off
 endline
 
 line border -id l87--2925--3536 -subtype invisible
@@ -834,6 +838,7 @@ line ceiling-step -reverse on
   -2914.0 -3440.0 -2565.65 -3374.46 -2522.0 -3369.0
   -2474.0 -3363.0 -2395.88 -3366.87 -2362.0 -3372.0
   -2296.0 -3382.0 -2158.0 -3391.0 -2102.0 -3412.0
+  smooth off
 endline
 
 line ceiling-step
@@ -4273,7 +4278,7 @@ line wall -reverse on
   smooth off
 endline
 
-point -4508.62 -7005.62 continuation -text "20W x 4T hands and knees in water. Has air. Very good lead!"
+point -4471.62 -6906.62 continuation -text "20W x 4T hands and knees in water. Has air. Very good lead!"
 
 point -4435.76 -6777.11 air-draught -orientation 21.54 -subtype winter
 
