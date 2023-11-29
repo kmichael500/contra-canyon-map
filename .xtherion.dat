@@ -1,6 +1,6 @@
 set xth(ctrl,cp,datlist) {}
 xth_cp_data_tree_insert 1 {} 0   "" "" "length: 386.39m (surface 0.00m, duplicated 0.00m)\nvertical range: 10.12m (from CCC12.2@survey_1 at 7.24m to CCC11@survey_1 at -2.88m)\nnorth-south range: 161.85m (from CCC1@survey_1 at 6.64m to CCC19.2@survey_1 at -155.21m)\neast-west range: 114.92m (from CCC1@survey_1 at 2.59m to CCC18.2@survey_1 at -112.33m)\nnumber of shots: 417\nnumber of stations: 416"
-xth_cp_data_tree_insert 39 1 1 survey_1 survey_1 "Contra Canyon Nov 25, 2023" "Contra Canyon Nov 25, 2023" "length: 386.39m (surface 0.00m, duplicated 0.00m)\nvertical range: 10.12m (from CCC12.2@survey_1 at 7.24m to CCC11@survey_1 at -2.88m)\nnorth-south range: 161.85m (from CCC1@survey_1 at 6.64m to CCC19.2@survey_1 at -155.21m)\neast-west range: 114.92m (from CCC1@survey_1 at 2.59m to CCC18.2@survey_1 at -112.33m)\nnumber of shots: 417\nnumber of stations: 416"
+xth_cp_data_tree_insert 39 1 1 survey_1 survey_1 "Contra Canyon" "Contra Canyon" "length: 386.39m (surface 0.00m, duplicated 0.00m)\nvertical range: 10.12m (from CCC12.2@survey_1 at 7.24m to CCC11@survey_1 at -2.88m)\nnorth-south range: 161.85m (from CCC1@survey_1 at 6.64m to CCC19.2@survey_1 at -155.21m)\neast-west range: 114.92m (from CCC1@survey_1 at 2.59m to CCC18.2@survey_1 at -112.33m)\nnumber of shots: 417\nnumber of stations: 416"
 xth_cp_data_tree_create
 set xth(ctrl,cp,maplist) {}
 xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
@@ -10,5 +10,5 @@ xth_cp_map_tree_insert map 1 591X1 590X1 2 low low@survey_1 "" ""
 xth_cp_map_tree_create
 xth_cp_comp_stat 386 2
 set xth(th_exit_state) 1
-set xth(th_exit_number) 1701220480
+set xth(th_exit_number) 1701222365
 

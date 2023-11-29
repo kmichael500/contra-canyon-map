@@ -85,7 +85,7 @@ calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
 selecting export objects ... 
-therion: warning -- thconfig.thcfg [5] -- object not found -- "map_1"
+therion: warning -- thconfig.thcfg [4] -- object not found -- "map_1"
 done
 processing projection plan ... done
 average distortion: 0.06%
@@ -95,9 +95,9 @@ average distortion: 0.06%
 M    -0.90 low@survey_1 ()
 S    -0.90 scrap_1@survey_1 ()
 ########## end of export maps & scraps selection ###############
-writing output/Contra Canyon - November 25, 2023 Working Plan.pdf ...
+writing output/Contra Canyon Working Plan.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  28 NOV 2023 19:14
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  28 NOV 2023 19:45
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -123,7 +123,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  28 NOV 2023 19:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  28 NOV 2023 19:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -139,7 +139,7 @@ tex.map})
 Here is how much of TeX's memory you used:
  301 strings out of 494594
  4109 string characters out of 6146452
- 303637 words of memory out of 5000000
+ 303512 words of memory out of 5000000
  1956 multiletter control sequences out of 15000+600000
  21229 words of font info for 66 fonts, out of 8000000 for 9000
  1416 hyphenation exceptions out of 8191
@@ -147,7 +147,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.
 pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.
 pfb>
-Output written on data.pdf (1 page, 188586 bytes).
+Output written on data.pdf (1 page, 188492 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
@@ -163,9 +163,9 @@ done
 M    -0.90 low@survey_1 ()
 S    -0.90 scrap_1@survey_1 ()
 ########## end of export maps & scraps selection ###############
-writing output/DEBUG Contra Canyon - November 25, 2023 Plan.pdf ...
+writing output/DEBUG Contra Canyon Plan.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  28 NOV 2023 19:14
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  28 NOV 2023 19:46
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -191,7 +191,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  28 NOV 2023 19:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  28 NOV 2023 19:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -207,7 +207,7 @@ tex.map})
 Here is how much of TeX's memory you used:
  301 strings out of 494594
  4109 string characters out of 6146452
- 468243 words of memory out of 5000000
+ 468118 words of memory out of 5000000
  1956 multiletter control sequences out of 15000+600000
  21229 words of font info for 66 fonts, out of 8000000 for 9000
  1416 hyphenation exceptions out of 8191
@@ -215,7 +215,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.
 pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.
 pfb>
-Output written on data.pdf (1 page, 242321 bytes).
+Output written on data.pdf (1 page, 242230 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
@@ -231,9 +231,9 @@ done
 M    -0.90 low@survey_1 ()
 S    -0.90 scrap_1@survey_1 ()
 ########## end of export maps & scraps selection ###############
-writing output/Contra Canyon - November 25, 2023 Plan.pdf ...
+writing output/Contra Canyon Plan.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  28 NOV 2023 19:14
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  28 NOV 2023 19:46
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -259,7 +259,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  28 NOV 2023 19:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  28 NOV 2023 19:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -275,7 +275,7 @@ tex.map})
 Here is how much of TeX's memory you used:
  299 strings out of 494594
  4095 string characters out of 6146452
- 301001 words of memory out of 5000000
+ 300876 words of memory out of 5000000
  1954 multiletter control sequences out of 15000+600000
  21229 words of font info for 66 fonts, out of 8000000 for 9000
  1416 hyphenation exceptions out of 8191
@@ -283,7 +283,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.
 pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.
 pfb>
-Output written on data.pdf (1 page, 178233 bytes).
+Output written on data.pdf (1 page, 178063 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
@@ -299,9 +299,9 @@ done
 M    -0.90 low@survey_1 ()
 S    -0.90 scrap_1@survey_1 ()
 ########## end of export maps & scraps selection ###############
-writing output/Contra Canyon - November 25, 2023 Plan Working.svg ...
+writing output/Contra Canyon Working Plan.svg ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  28 NOV 2023 19:14
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  28 NOV 2023 19:46
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -333,9 +333,9 @@ done
 M    -0.90 low@survey_1 ()
 S    -0.90 scrap_1@survey_1 ()
 ########## end of export maps & scraps selection ###############
-writing output/Contra Canyon - November 25, 2023 Plan.svg ...
+writing output/Contra Canyon Plan.svg ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  28 NOV 2023 19:14
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  28 NOV 2023 19:46
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -361,10 +361,10 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making svg map ... done
 done
-writing output/leads.html ... done
+writing output/Contra Canyon Leads.html ... done
 therion: warning -- data not georeferenced -- unable to export KML file
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  28 NOV 2023 19:14
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  28 NOV 2023 19:46
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -373,12 +373,12 @@ Preloading the plain mem file, version 1.005) ) (./data.mp [1] )
 
 
 #################### end of metapost log file ####################
-writing output/Contra Canyon - November 25, 2023 Plan Arc Map ... done
-writing output/Contra Canyon - November 25, 2023 Plan Arc Model ... .
+writing output/Contra Canyon Arc Map ... done
+writing output/Contra Canyon Arc Model ... .
 therion: warning -- scrap_1@survey_1 -- multiple scrap outer outlines not supported yet
 done
 therion: warning -- data not georeferenced -- unable to export KML file
-writing output/Contra Canyon - November 25, 2023.3d ... done
+writing output/Contra Canyon.3d ... done
 writing xtherion file ... done
 compilation time: 7 sec
 

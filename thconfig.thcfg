@@ -1,6 +1,5 @@
 encoding  utf-8
 encoding  utf-8
-encoding  utf-8
 
 select map_1@survey
 source survey.th
@@ -10,7 +9,7 @@ input "Templates_DeCelle.thconfig"
 layout defaults
 	north true
 	doc-author "Michael Ketzner"
-	doc-title "Contra Canyon - November 25, 2023"
+	doc-title "Contra Canyon"
 	
 	symbol-colour area blocks  [41 41 41]
 	symbol-colour line rock-border [41 41 41]
@@ -64,26 +63,26 @@ endlayout
 
 # PDF Map Exports #
 
-export map -projection plan -layout workingPlan -o "output/Contra Canyon - November 25, 2023 Working Plan.pdf"
-export map -projection plan -layout debug -o "output/DEBUG Contra Canyon - November 25, 2023 Plan.pdf"
-export map -projection plan -layout cleanPlan -o "output/Contra Canyon - November 25, 2023 Plan.pdf"
+export map -projection plan -layout workingPlan -o "output/Contra Canyon Working Plan.pdf"
+export map -projection plan -layout debug -o "output/DEBUG Contra Canyon Plan.pdf"
+export map -projection plan -layout cleanPlan -o "output/Contra Canyon Plan.pdf"
 
 # SVG Exports #
 
-export map -projection plan -layout workingPlan -o "output/Contra Canyon - November 25, 2023 Plan Working.svg"
-export map -projection plan -layout cleanPlan -o "output/Contra Canyon - November 25, 2023 Plan.svg"
+export map -projection plan -layout workingPlan -o "output/Contra Canyon Working Plan.svg"
+export map -projection plan -layout cleanPlan -o "output/Contra Canyon Plan.svg"
 
 
 # Continuation/Leads List Generation #
 
-export continuation-list -o "output/leads.html" #Creates a leads list if you used the "point continuation" tool correctly
+export continuation-list -o "output/Contra Canyon Leads.html" # creates a leads list if you used the "point continuation" tool correctly
 
 
 # Other #
 
-export model -format kml -o "output/Contra Canyon - November 25, 2023 Plan.kml" -enable walls
-export map -format esri -o "output/Contra Canyon - November 25, 2023 Plan Arc Map"
-export model -format esri -o "output/Contra Canyon - November 25, 2023 Plan Arc Model"
-export model -format kml -o "output/Contra Canyon - November 25, 2023 Plan"
+export model -format kml -o "output/Contra Canyon.kml" -enable walls
+export map -format esri -o "output/Contra Canyon Arc Map"
+export model -format esri -o "output/Contra Canyon Arc Model"
+export model -format kml -o "output/Contra Canyon"
 
-export model -fmt survex -o "output/Contra Canyon - November 25, 2023.3d" -enable walls
+export model -fmt survex -o "output/Contra Canyon.3d" -enable walls
